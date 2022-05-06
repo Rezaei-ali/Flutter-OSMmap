@@ -1,16 +1,6 @@
 # fluttershowmap
+![2022-05-06_13-01-26](https://user-images.githubusercontent.com/80472100/167099044-a32347ec-0d3c-4f22-9c7c-f96c7fd2cf43.png)
 
-A new Flutter project.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In this project, the osm map is displayed in the Flutter framework.
